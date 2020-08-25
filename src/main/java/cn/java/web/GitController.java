@@ -13,7 +13,7 @@ public class GitController {
 
     @GetMapping("init")
     public String init(){
-        return "hello git!";
+        return "hello git!！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！1";
 
     }
 }
